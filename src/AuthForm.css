@@ -1,0 +1,17 @@
+form input {
+    display: block;
+    margin: 0 auto;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+}
+
+.button--link-style {
+    background-color: transparent;
+    border: none;
+    text-decoration: underline;
+    color: blue;
+    cursor: pointer;
+}
